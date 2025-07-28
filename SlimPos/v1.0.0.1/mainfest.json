@@ -1,7 +1,7 @@
 {
   "app_code": "SlimPos",
   "latest_version": "1.0.0.1",
-  "download_url": "https://github.com/viruswrld/UpdateCenter/raw/main/SlimPOS/v1.0.0.1/SlimPOS_Update.zip",
+  "download_url": "https://raw.githubusercontent.com/virusworld/UpdateCenter/main/SlimPos/v1.0.0.1/SlimPOS_Update.zip",
   "update_notes": "Improved performance, bug fixes, emoji rendering updates",
   "release_date": "2025-07-28",
   "sha256": "optional-hash-for-integrity-check"
